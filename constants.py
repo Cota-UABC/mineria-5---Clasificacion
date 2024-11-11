@@ -1,0 +1,5 @@
+YES = 1
+NO = 0
+
+NEURAL_NETWORK = 0
+BAYES = 1
